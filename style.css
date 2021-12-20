@@ -1,0 +1,201 @@
+body{
+   margin: 0;
+   padding: 0;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    min-width: 100%;
+    
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: white;
+    font-size: 10px;
+}
+
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+/* .topl{
+  position: absolute;
+  top: 8px;
+  left: 16px;
+
+}
+
+.topr{
+    position:absolute;
+    top: 8px;
+    right: 16px;
+}
+
+.topcenter{
+    position: absolute;
+    top: 8px;
+    right: 350px;
+
+}
+
+.center{
+    position: absolute;
+    top:50% ;
+    bottom: 50%;
+    right: 320px;
+    
+}
+
+.centerfont{
+    font-size: 2em;
+}
+
+.bottoml{
+    position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+.bottomr{
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+.buttontop{
+    border-radius: 1.2em;
+    background-color: #5BB25B;
+    color: white;
+}
+
+.probtn{
+    background-color: #3A9DEE;
+    color: white; 
+ } 
+
+ .getbtn{
+    background-color: #5BB25B;
+    color: white; 
+ }
+
+.buttoncenter{
+    background-color: pink;
+    width: 10em;
+    height:3em;
+    border-radius: 1.5em;
+    color: white;
+} */
+
+
+.topl{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 7px;
+  
+  }
+
+  .topr{
+    position:absolute;
+    top: 8px;
+    right: 20px;
+}
+
+.probtn{
+    background-color: #3A9DEE;
+    color: white; 
+    width: 5em;
+    height: 2.5em;
+    border: none;
+    font-size: 4px;
+  
+    
+ } 
+
+
+ .getbtn{
+    background-color: #5BB25B;
+    color: white; 
+    width: 5em;
+    height: 2.5em;
+    border: none;
+    font-size: 5px;
+ }  
+
+.space{
+    word-spacing: 7px;
+}
+
+ 
+
+ .topcenter{
+    /* position: absolute;
+    top: 8px;
+    right: 350px;
+    font-size: 5px; */
+    /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  top: 15px;
+  font-size: 6px;
+  /* height: 200px;
+  border: 3px solid green; */
+
+}
+
+.center{
+    position: absolute;
+    top: 60px; ;
+    bottom: 50%;
+    right: 200px;
+    /* display: flex;
+  justify-content: center;
+  align-items: center; */
+    
+}
+
+.buttoncenter{
+    background-color: pink;
+    width: 15em;
+    height:3.5em;
+    border-radius: 1.5em;
+    color: white;
+    border: none;
+    font-size: 4px;
+    font-weight: 600;
+} 
+
+h1{
+    font-size: 3em;
+    margin-top: 0;
+    /* margin-bottom: 0; */
+}
+.bottoml{
+    position: absolute;
+  /* bottom: 8px;
+  left: 16px; */
+  font-size: 5px;
+  /* margin-bottom: 2em; */
+  margin-top: 45em;
+  margin-left: 2em;
+}
+
+/* .bottomr{
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+  font-size: 5px;
+} */
+
+
+
+.bottomr{
+    position: absolute;
+  /* bottom: 8px;
+  left: 16px; */
+  font-size: 5px;
+  /* margin-bottom: 2em; */
+  margin-top: 45em;
+  margin-left: 85em;
+}
